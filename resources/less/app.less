@@ -1,3 +1,60 @@
-@import "tailwindcss/base";
-@import "tailwindcss/components";
-@import "tailwindcss/utilities";
+// Font Awesome
+@import "~font-awesome/css/font-awesome.css";
+
+@tailwind base;
+
+@tailwind components;
+
+// Custom Components
+@import "components/code.less";
+@import "components/h1h6.less";
+@import "components/hyperlink.less";
+@import "components/paragraph.less";
+@import "components/table.less";
+
+h1 {
+    @apply text-xl font-extrabold font-sans mt-4;
+}
+h2 {
+    @apply text-lg font-extrabold font-sans mt-4;
+}
+h3 {
+    @apply text-base font-extrabold font-sans mt-4;
+}
+h4 {
+    @apply text-sm font-extrabold font-sans mt-4;
+}
+h5 {
+    @apply text-xs font-extrabold font-sans mt-4;
+}
+h6 {
+    @apply text-xs font-extrabold font-sans mt-4;
+}
+
+@screen md {
+    h1 {
+      @apply text-4xl font-medium tracking-wide;
+    }
+    h2 {
+      @apply text-3xl font-medium tracking-wide;
+    }
+    h3 {
+      @apply text-2xl font-medium tracking-wide;
+    }
+    h4 {
+      @apply text-xl font-medium tracking-wide;
+    }
+    h5 {
+      @apply text-lg font-medium tracking-wide;
+    }
+    h6 {
+      @apply text-base font-extrabold tracking-wide;
+    }
+}
+
+li, p, div {
+    @apply leading-tight;
+}
+
+@tailwind utilities;
+
