@@ -30,7 +30,7 @@ In der ersten Pokalrunde treten also 256 Teams an, d.h es werden 128 Spiele durc
 Da jede Pokalrunde aus Hin- und Rückspiel besteht, werden in der ersten Pokalrunde 256 Spiele durchgeführt.
 Sieger ist die Mannschaft, die in diesen beiden Spielen mehr Punkte geholt hat. Bei Punktgleichheit ist die Tordifferenz ausschlaggebend. Ist auch die Tordifferenz identisch, kommt das Team weiter, welches mehr Tore im Auswärtsspiel erzielt hat. Ist auch diese Anzahl identisch entscheidet der Zufall („Elfmeterschießen“ genannt).
 
-##D ie Weltmeisterschaft
+## Die Weltmeisterschaft
 
 Nach der Ermittlung der 16 Landesmeister wird die Weltmeisterschaft zum Abschluss einer jeden Saison durchgeführt.
 Jeder Landesmeister hat sich für diesen Wettbewerb qualifiziert.
