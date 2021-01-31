@@ -43,6 +43,17 @@ Zusätzlich bekommt jedes Team für jeden gewonnenen Punkt während der WM eine 
 
 1963 in Lübeck geboren, Mathematiker und seit frühester Jugend an der Programmierung interessiert.
 
+
+## Get started
+
+Execute the following commands: 
+
+    Rename the file .env.example to .env
+    composer install 
+    npm install 
+    php artisan migrate 
+    php artisan serve 
+
 ## Lizenz
 
 Der WTOC-Algorithmus ist lizenziert unter [MIT license](https://opensource.org/licenses/MIT).
